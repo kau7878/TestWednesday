@@ -16,6 +16,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * Showing you push repository.
  * My name is Simranjit kaur.Hello
  *Making a change on the git hub file.
+ *I am doing changes with the fetch request and merging it.
  */
 public class Student 
 {
