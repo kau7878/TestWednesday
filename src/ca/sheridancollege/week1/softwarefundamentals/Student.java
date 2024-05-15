@@ -14,6 +14,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * @modified by Simranjit May 15,2024,
  * this changes made,
  * Showing you push repository.
+ * My name is Simranjit kaur.Hello
  */
 public class Student 
 {
